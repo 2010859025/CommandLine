@@ -36,8 +36,3 @@ comment / uncomment block
 
 ### CTRL + ALT + T
 surround with
-
-## Compile and Run
-
-### CTRL + SHIFT + F9
-compile selected file
