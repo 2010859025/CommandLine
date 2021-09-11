@@ -45,9 +45,19 @@
 ### CTRL + ALT + T
     surround with
 
+### SHIFT + F6
+    rename (all occurences)
+
 ---
 
 ## Compile and Run
 
 ### CTRL + SHIFT + F9
     compile selected filef
+
+---
+
+## VCS
+
+### CTRL + K
+commit project to VCS

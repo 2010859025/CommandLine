@@ -9,6 +9,15 @@ public class Main {
         System.out.println("Nächster Commit");
 
         System.out.println("Zweiter Commit");
+
+        int anton = 0;
+
+    }
+
+    public static void myTestMethod(int a) {
+        System.out.println("My test method");
+
+        System.out.println(a);
     }
 
 
