@@ -3,36 +3,61 @@
 ## Navigation
 
 ### ALT + LEFT / RIGHT
-jump to left or right tab
+    jump to left or right tab
 
 ### ALT + F12
-switch between editor and terminal
+    open / close terminal window
 
 ### CTRL + B
-go to declaration
+    go to declaration
 
 ### CTRL + ALT + B
-go to implementations
+    go to implementations
 
 ### ALT + 1
-open / close project window
+    open / close project window
 
 ### ALT + 4
-open / close run window
+    open / close run window
+
+### ALT + INSERT
+    when in project window add file
+
+### ESC
+    go to editor
+
+---
 
 ## Editing
 
 ### CTRL + SPACE
-basic code completion
+    basic code completion
 
 ### ALT + INSERT
-generate code: setter, getter, etc.
+    generate code: setter, getter, etc.
 
 ### CTRL + / (num block)
-comment / uncomment line
+    comment / uncomment line
 
 ### CTRL + SHIFT + / (num block)
-comment / uncomment block
+    comment / uncomment block
 
 ### CTRL + ALT + T
-surround with
+    surround with
+
+### SHIFT + F6
+    rename (all occurences)
+
+---
+
+## Compile and Run
+
+### CTRL + SHIFT + F9
+    compile selected filef
+
+---
+
+## VCS
+
+### CTRL + K
+commit project to VCS

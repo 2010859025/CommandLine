@@ -26,6 +26,15 @@
 ### ESC
     go to editor
 
+### CTRL + F4
+    close active tab
+
+### CTRL + ALT + S
+    open settings
+
+### CTRL + G
+    jump to line
+
 ---
 
 ## Editing
