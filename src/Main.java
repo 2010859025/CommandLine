@@ -9,8 +9,10 @@ public class Main {
         System.out.println("Nächster Commit");
 
         System.out.println("Zweiter Commit");
+        System.out.println("Zweiter Commit");
+        System.out.println("Zweiter Commit");
 
-        int anton = 0;
+        int num = 0;
 
     }
 

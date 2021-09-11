@@ -1,5 +1,7 @@
 # IntelliJ Shortcuts
 
+A list of the most common shortcuts can be found at `Help > Keymap Reference`.
+
 ## Navigation
 
 ### ALT + LEFT / RIGHT
@@ -57,6 +59,17 @@
 ### SHIFT + F6
     rename (all occurences)
 
+### CTRL + D
+    duplicate line
+
+### CTRL + ALT + SHIFT + L
+    format code
+
+### SHIFT + SHIFT
+    search everywhere
+
+### ALT + ENTER
+    open context menu
 ---
 
 ## Compile and Run
