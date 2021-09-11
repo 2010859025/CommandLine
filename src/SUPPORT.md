@@ -69,4 +69,14 @@
 ## VCS
 
 ### CTRL + K
-commit project to VCS
+    commit project to VCS
+
+---
+
+## Debugging
+
+### F8 / F7
+    step over / step into
+
+### F9
+    resume program
