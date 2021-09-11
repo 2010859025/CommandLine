@@ -5,5 +5,9 @@ public class Main {
         Arrays.stream(args).map(String::toLowerCase).forEach(System.out::println);
 
         System.out.println("Test");
+
+        System.out.println("Nächster Commit");
+
+        System.out.println("Zweiter Commit");
     }
 }
