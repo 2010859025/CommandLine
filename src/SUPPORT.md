@@ -70,6 +70,13 @@ A list of the most common shortcuts can be found at `Help > Keymap Reference`.
 
 ### ALT + ENTER
     open context menu
+
+### CTRL + W
+    select successively increasing code blocks
+
+### CTRL + SHIFT + E
+    shows the last positions in all files
+
 ---
 
 ## Compile and Run
