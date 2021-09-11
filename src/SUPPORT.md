@@ -3,7 +3,7 @@
 ## Navigation
 
 ### ALT + LEFT / RIGHT
-jump to tab left or right
+jump to left or right tab
 
 ### ALT + F12
 switch between editor and terminal
@@ -13,3 +13,20 @@ go to declaration
 
 ### CTRL + ALT + B
 go to implementations
+
+## Editing
+
+### CTRL + SPACE
+basic code completion
+
+### ALT + INSERT
+generate code: setter, getter, etc.
+
+### CTRL + / (num block)
+comment / uncomment line
+
+### CTRL + SHIFT + / (num block)
+comment / uncomment block
+
+### CTRL + ALT + T
+surround with
